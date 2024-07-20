@@ -1,1 +1,2 @@
-# Personal_Budget_Tracker
+# MyTrx
+Transaction Tracker and Budget planner
